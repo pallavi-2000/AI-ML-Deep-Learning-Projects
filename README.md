@@ -10,7 +10,7 @@ Collection of 21 projects covering AI, ML, and Deep Learning.
 | ----- | --------------------------------------------------------------- | ------------------- | ---------------------------- | --------------- | ---------- |
 | 1     | Data Storytelling: Analysing Survival on the Titanic            | ML / EDA            | Python, Pandas, Matplotlib   | [Link](https://github.com/pallavi-2000/AI-ML-Deep-Learning-Projects/blob/main/notebooks/project_01.ipynb)       | Completed  |
 | 2     | Cracking the Code: Netflix Content Strategy                     | ML / EDA            | Python, Pandas, Seaborn      | [Link](https://github.com/pallavi-2000/AI-ML-Deep-Learning-Projects/blob/main/notebooks/project_02.ipynb)       | Completed  |
-| 3     | Predicting Housing Market Trends with AI                        | Regression          | Sklearn, XGBoost             | [Link](#)       | Upcoming   |
+| 3     | Predicting Housing Market Trends with AI                        | Regression          | Sklearn, XGBoost             | [Link](https://github.com/pallavi-2000/AI-ML-Deep-Learning-Projects/blob/main/notebooks/project_03_.ipynb)       | Upcoming   |
 | 4     | AI in Healthcare: Heart Disease Predictor                       | Classification      | Sklearn, Logistic Regression | [Link](#)       | Upcoming   |
 | 5     | Smart Segmentation: Customer Personas with AI                   | Clustering          | KMeans, PCA                  | [Link](#)       | Upcoming   |
 | 6     | Predicting Future Store Sales with AI                           | Time Series         | ARIMA, Prophet               | [Link](#)       | Upcoming   |
